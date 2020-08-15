@@ -6,7 +6,7 @@
 
 I am [Abhinav](https://lucky31044.github.io/),
 
-I mostly work with Golang and Cloud-Native technologies.☁️🚀
+I mostly work in Machine Learning and deep learning.☁️🚀
 
 
 <p float="left">
