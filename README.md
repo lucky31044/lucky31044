@@ -6,7 +6,7 @@
 
 I am [Abhinav](https://lucky31044.github.io/),
 
-I mostly work in Machine Learning and deep learning.☁️🚀
+I work in Machine Learning, deep learning amd Salesforce CRM.☁️🚀
 
 
 ### 📫 How to reach me? 
